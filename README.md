@@ -1,5 +1,3 @@
-![Coding Animation]([Saad_Naseem_In_a_contemporary_scene,_a_person_sits_at_a_modern_db9a7503-4f85-495e-acb9-699ecf839155.gif](https://github.com/saad-rao/saad-rao/blob/main/Saad_Naseem_In_a_contemporary_scene%2C_a_person_sits_at_a_modern_db9a7503-4f85-495e-acb9-699ecf839155.gif))
-
 <h1 align="center">Hi 👋, I'm Saad Naseem</h1>
 <h3 align="center">A dedicated frontend developer from Pakistan</h3>
 
