@@ -1,5 +1,9 @@
-# 💫 About Me:
-🔭 I’m currently working on  [Python projects](share.streamlit.io/user/saad-rao)<br>👯 I’m looking to collaborate on Web dev projects<br>🤝 I am looking for internship opportunities in Web Development, Frontend.<br>🌱 I’m currently learning JavaScript,ReactJs,Typescript,NextJs<br>📫 How to reach me https://www.linkedin.com/in/saad-naseem-99651a2b4/
+<h1 align="center">Hi 👋, I'm Saad Naseem</h1>
+<h3 align="center">A dedicated frontend developer from Pakistan</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saad-rao&label=Profile%20views&color=0e75b6&style=flat" alt="saad-rao" /> </p>
+
+🔭 I’m currently working on  [Python projects](share.streamlit.io/user/saad-rao)<br>👯 I’m looking to collaborate on **Web dev projects**<br>🤝 I am looking for **internship opportunities in Web Development, Frontend**.<br>🌱 I’m currently learning **JavaScript,ReactJs,Typescript,NextJs**<br>📫 How to reach me **https://www.linkedin.com/in/saad-naseem-99651a2b4/**
 
 
 ## 🌐 Socials:
